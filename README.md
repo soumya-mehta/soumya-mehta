@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-From- Born and brought up in Delhi, staying in Gurgaon<br>I'm currently working on- DSA, Problem Solving, AI ML<br>Profession - Student at VIT Bhopal University<br>Studying - Integrated M.Tech in Computer Science spl in AI ML<br>Ask Me About - Blog Writing, ML Theory, Computer Science, Classic Literature!<br>Fun Fact - My original plan was to become an Astronaut!
+I'm currently working on- DSA, Problem Solving, AI ML, Neural Networks, Data Analytics <br>Profession - Student at VIT Bhopal University<br>Studying - Integrated M.Tech in Computer Science spl in AI ML<br>Ask Me About - Blog Writing, ML Theory, Computer Science, Classic Literature!<br>Fun Fact - My original plan was to become an Astronaut!
 
 
 ## 🌐 Socials:
