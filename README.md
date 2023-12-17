@@ -31,9 +31,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumya-mehta&label=Profile%20views&color=0e75b6&style=flat" alt="soumya-mehta" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumya-mehta&theme=dark_lover" alt="soumya-mehta" /></a> </p>
-
-<h3 align="left">Stars</h3>
+<h3 align="left">Stats</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumya-mehta&layout=compact&theme=dracula" alt=soumya-mehta />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=soumya-mehta&show_icons=true&locale=en&theme=radical" alt="soumya-mehta" /></p>
