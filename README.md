@@ -6,7 +6,7 @@
 - 🤝 I’m looking for help with **OpenCV and TensorFlow**
 - 🌱 I’m currently learning **DSA, Problem Solving, Java, Data Analytics, ML and Tableau**
 - 💬 Ask me about **Applied ML and Data Visualization**
-- 📫 How to reach me **soumya099@gmail.com**
+- 📫 How to reach me **soumyaa099@gmail.com**
 - 📄 Know about my experiences **https://www.linkedin.com/in/soumyamehta/**
 - ⚡ Fun fact **I can make conversations with anyone and everyone!**
 
